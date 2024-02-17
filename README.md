@@ -1,6 +1,6 @@
 # What is this?
 
-This project is a simple currency converter CLI tool written in Golang. It makes use of the free currency exchange API [Frankfurter](www.frankfurter.app).
+This project is a simple currency converter CLI tool written in Golang. It makes use of the free currency exchange API [Frankfurter](https://frankfurter.app).
 
 
 # Usage
