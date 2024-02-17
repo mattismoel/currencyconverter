@@ -15,3 +15,7 @@ The code can also be directly run with the following command:
 ```bash
 $ go run ./cmd/main.go <amount> <from_currency> <to_currency>
 ```
+Or the newly built binary:
+```bash
+$ ./currencyconverter <amount> <from_currency> <to_currency>
+```
